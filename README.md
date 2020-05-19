@@ -10,3 +10,5 @@ Description:
 2. You should only run every 60 seconds to avoid error.
   
 3. Statistics are updated by the NYT every day, but is only accurate up until the previous day.
+
+4. Here is the <a href="https://twitter.com/COVID_19_daily">twitter account</a> that tweets out the data.
