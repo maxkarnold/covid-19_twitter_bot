@@ -2,7 +2,7 @@
 
 Description:
 
-  Program that scrapes NYT csv file of Missouri county COVID-19 data. 
+  Program that scrapes NYT csv file of Missouri county COVID-19 data. (<a href="https://github.com/nytimes/covid-19-data">GITHUB repository</a>)
   When run, it tweets out a message of the the 3 counties with the most new deaths and cases.
 
 1. run the scraper.py
