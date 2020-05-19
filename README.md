@@ -7,6 +7,6 @@ Description:
 
 1. run the scraper.py
 
-  a. You should only run every 60 seconds to avoid error.
+2. You should only run every 60 seconds to avoid error.
   
-  b. Statistics are updated by the NYT every day, but is only accurate up until the previous day.
+3. Statistics are updated by the NYT every day, but is only accurate up until the previous day.
