@@ -1,6 +1,6 @@
 # covid-19_twitter_bot
 
-Source: <a href="https://github.com/nytimes/covid-19-data">GITHUB repository</a>
+Source: <a href="https://github.com/nytimes/covid-19-data">NYT github repository</a>
   
 - .env and .csv files are in .gitignore
 
